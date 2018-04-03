@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">绿信</string>
+    <string name="title_webview">Webview</string>
+    <string name="title_dashboard">Weex</string>
+    <string name="title_notifications">Native</string>
+    <string name="title_activity_weex">WeexActivity</string>
+</resources>
